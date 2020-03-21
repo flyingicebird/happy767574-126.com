@@ -4,7 +4,7 @@
 Stand with China***
 
 使用BlankerL提供的数据仓库和pyecharts实现的新型冠状病毒疫情数据可视化
-
+* 下载每日疫情数据<br>
 * 修复日期显示不完全的问题<br>
 * 适配API的更新<br>
 * 动态更新柱状图的最大值<br>
