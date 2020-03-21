@@ -1,4 +1,4 @@
-# NCP-historical-data-visualization
+#全国新冠疫情分省统计
 
 ***Stand with Wuhan<br>
 Stand with China***
