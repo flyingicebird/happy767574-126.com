@@ -18,4 +18,4 @@ https://github.com/BlankerL/DXY-2019-nCoV-Crawler
 可视化：
 https://github.com/pyecharts/pyecharts
 
-![image](https://github.com/Mistletoer/NCP-historical-data-visualization-2019-nCoV-/blob/master/demo.gif)
+![image](https://github.com/flyingicebird/happy767574-126.com/blob/master/demo.gif)
